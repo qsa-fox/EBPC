@@ -1,4 +1,5 @@
 # EBPC: Energy-based policy constraint for offline reinforcement learning
+# IPC: Implicit policy constraint for offline reinforcement learning
 
 ### usage
 ```
